@@ -12,3 +12,4 @@ Useful links:
 1. Object detection and speech classification tutorial - https://www.youtube.com/playlist?list=PLTXKqfMiQUrqWRPXpGu28iV0Jpl5VXE4U
 2. Data sets (For challenge 1) -  https://drive.google.com/drive/folders/10gFXOzyzGptrM58OORUaRcowzln2eFet?usp=sharing
 3. 12 June AMA sessions: https://drive.google.com/drive/folders/1q7XGYzXVES2SDNtHcvklnGXG4c9iWPJO?usp=sharing
+4. Submission google drive: https://drive.google.com/drive/folders/19Dw06bSNixlZEtZpEqxv93VrUQLguA4J
