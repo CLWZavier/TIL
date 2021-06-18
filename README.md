@@ -13,3 +13,4 @@ Useful links:
 2. Data sets (For challenge 1) -  https://drive.google.com/drive/folders/10gFXOzyzGptrM58OORUaRcowzln2eFet?usp=sharing
 3. 12 June AMA sessions: https://drive.google.com/drive/folders/1q7XGYzXVES2SDNtHcvklnGXG4c9iWPJO?usp=sharing
 4. Submission google drive: https://drive.google.com/drive/folders/19Dw06bSNixlZEtZpEqxv93VrUQLguA4J
+5. Slack: https://app.slack.com/client/T01SFRGEXHD/C01SFRGF5L7?force_cold_boot=1
