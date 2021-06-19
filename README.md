@@ -17,7 +17,7 @@ Useful links:
 5. Slack: https://app.slack.com/client/T01SFRGEXHD/C01SFRGF5L7?force_cold_boot=1
 
 Challenge attempts/completion
-1. Challenge 1 completed - Score: 0.60355
+1. Challenge 1 completed - Score: 0.60355 mAP
 2. Challenge 2 uncompleted
 
 
