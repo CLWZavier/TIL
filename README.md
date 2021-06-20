@@ -15,6 +15,7 @@ Useful links:
 3. 12 June AMA sessions: https://drive.google.com/drive/folders/1q7XGYzXVES2SDNtHcvklnGXG4c9iWPJO?usp=sharing
 4. Submission google drive: https://drive.google.com/drive/folders/19Dw06bSNixlZEtZpEqxv93VrUQLguA4J
 5. Slack: https://app.slack.com/client/T01SFRGEXHD/C01SFRGF5L7?force_cold_boot=1
+6. AWS educate sign in: https://www.awseducate.com/signin/SiteLogin
 
 Challenge attempts/completion
 1. Challenge 1 completed - Score: 0.60355 mAP
