@@ -19,7 +19,7 @@ Useful links:
 
 Challenge attempts/completion
 1. Challenge 1 completed - Score: 0.60355 mAP
-2. Challenge 2 uncompleted
+2. Challenge 2 completed - Score: 0.8858
 
 
 
